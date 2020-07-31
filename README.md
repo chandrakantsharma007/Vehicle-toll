@@ -4,8 +4,8 @@ However, in this repo i am only considering truck,bus,car and motorbike.
 
 # Requirements
  1.Opencv<br/>
- 2.Pretrained yolo-coco model(cfg,weights,names).
- 3.A sample video.
+ 2.Pretrained yolo-coco model(cfg,weights,names).<br/>
+ 3.A sample video.<br/>
 
 So, to run this code you first need to download cfg,weights file from this site- https://pjreddie.com/darknet/yolo/  and you can download the names file from the repo.
 
