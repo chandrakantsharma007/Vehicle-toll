@@ -3,7 +3,7 @@ So, this repository is about identifying the type of vehicle on a toll and then 
 However, in this repo i am only considering truck,bus,car and motorbike.
 
 # Requirements
- 1.Opencv
+ 1.Opencv<br/>
  2.Pretrained yolo-coco model(cfg,weights,names).
  3.A sample video.
 
