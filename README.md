@@ -3,9 +3,9 @@ So, this repository is about identifying the type of vehicle on a toll and then 
 However, in this repo i am only considering truck,bus,car and motorbike.
 
 # Requirements
-## Opencv
--Pretrained yolo-coco model(cfg,weights,names).
--A sample video.
+ 1.Opencv
+ 2.Pretrained yolo-coco model(cfg,weights,names).
+ 3.A sample video.
 
 So, to run this code you first need to download cfg,weights file from this site- https://pjreddie.com/darknet/yolo/  and you can download the names file from the repo.
 
